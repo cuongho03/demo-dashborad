@@ -2,8 +2,7 @@
   "name": "health-dashboard",
   "version": "0.0.1",
   "description": "A dashboard for health data visualization.",
-  "private": false,
-  "main": "dist/index.js",
+  "private": true,
   "dependencies": {
     "@material-ui/core": "1.4.1",
     "@material-ui/icons": "2.0.0",
